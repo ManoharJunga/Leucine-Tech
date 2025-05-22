@@ -115,11 +115,11 @@ npm run dev
 
 | Screen                   | Description               |
 | ------------------------ | ------------------------- |
-| ![1.png](./images/1.png) | Login Page                |
-| ![2.png](./images/2.png) | Signup Page               |
-| ![3.png](./images/3.png) | Admin - Create Software   |
-| ![4.png](./images/4.png) | Employee - Request Access |
-| ![5.png](./images/5.png) | Manager - Review Requests |
+| ![1.png](./images/1.png) | Manage Sotware Page (Admin)|
+| ![2.png](./images/2.png) | Request Pending Page(Admin)|
+| ![3.png](./images/3.png) | Manager Users Page (Admin)|
+| ![4.png](./images/4.png) | Employee - Software Search |
+| ![5.png](./images/5.png) | Employee -  Requests History |
 
 ---
 
