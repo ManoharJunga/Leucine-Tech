@@ -41,9 +41,7 @@ All frontend-to-backend communication is done using `axios` with authentication 
 | ------ | -------------- | -------------------------------- | ------------- |
 | POST   | `/auth/signup` | Register a new user              | ❌             |
 | POST   | `/auth/login`  | Authenticate a user & return JWT | ❌             |
-```
 
----
 
 ### 💻 Software APIs
 
