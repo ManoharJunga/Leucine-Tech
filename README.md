@@ -63,6 +63,7 @@ All frontend-to-backend communication is done using `axios` with authentication 
 | GET    | `/users/employees` | Get all users with role "employee" | ✅             |
 | GET    | `/users/managers`  | Get all users with role "manager"  | ✅             |
 
+---
 ```
 PORT=3001
 DATABASE_URL=postgre_url
