@@ -127,4 +127,3 @@ npm run dev
 
 This project was a great exercise in managing **authentication, authorization, CRUD operations**, and **frontend-backend communication** using clean Axios wrappers. Let me know your thoughts or if you'd like to contribute!
 
-```
