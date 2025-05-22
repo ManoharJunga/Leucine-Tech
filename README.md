@@ -95,9 +95,8 @@ VITE_API_BASE=http://localhost:3001/api
 ### Backend
 
 ```bash
-cd backend
+cd user-access-management
 npm install
-npm run typeorm migration:run
 npm run dev
 ```
 
